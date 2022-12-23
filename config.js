@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6282287219167']
-global.ownernomer = "6282287219167"
-global.premium = ['6282287219167']
+global.owner = ['+6019823396']
+global.ownernomer = "+60198233963"
+global.premium = ['+60198233963']
 global.packname = 'Sticker By'
 global.author = 'Sad-Bot'
 global.sessionName = 'papah'  //jangan diganti bro nanti error
@@ -65,9 +65,9 @@ global.myytv = ''
 global.mygc = ""
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'SAD BOT'
-global.akulaku = 'Bot By Papah'
-global.ytname = 'YT PAPAH' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.botname = 'Taka BOT'
+global.akulaku = 'Bot By Taka'
+global.ytname = 'YT Mirai902' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
 let file = require.resolve(__filename)
